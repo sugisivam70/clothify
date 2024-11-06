@@ -1,4 +1,4 @@
-const about = () => {
+const About = () => {
 
 
 
@@ -10,4 +10,4 @@ const about = () => {
 
 }
 
-export default about
+export default About

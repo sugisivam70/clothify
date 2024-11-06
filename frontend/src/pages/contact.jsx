@@ -1,11 +1,11 @@
 
 
-const MyComponent = () => {
+const Contact = () => {
   return (
     <div>
-      Hello, world!
+      
     </div>
-  );
-};
+  )
+}
 
-export default MyComponent;
+export default Contact

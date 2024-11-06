@@ -1,6 +1,6 @@
 
 
-const oder = () => {
+const Oder = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const oder = () => {
   )
 }
 
-export default oder
+export default Oder

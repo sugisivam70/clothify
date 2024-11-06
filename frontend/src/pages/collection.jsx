@@ -1,6 +1,6 @@
 
 
-const collection = () => {
+const Collection = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const collection = () => {
   )
 }
 
-export default collection
+export default Collection
